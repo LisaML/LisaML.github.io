@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="programac.css"?>
+<Padre>
+
+<title> PROGRAMAS  </title>
+
+<Estacion> Lifetime
+
+ <Canal> Canal:25 </Canal>
+  <programa>Pequeñas grande mujeres</programa>
+  <fecha>28/feb/2017</fecha>
+  <hora>2:00 pm</hora>
+  <longitud>Duracion: 1:00hrs </longitud>
+  <des>la vida de varias personas pequeñas en la ciudad.</des>
+  <clasificacion>Clasificacion: para todo publico</clasificacion>
+  <tipo>tipo: serie</tipo>
+  <calificacion>calificacion: 4</calificacion>
+
+<Canal> Canal:80</Canal>
+ <programa>Dance Moms</programa>
+ <fecha>28/feb/2017</fecha>
+ <hora>5:00 pm</hora>
+ <longitud>Duracion: 1:00 hrs </longitud>
+ <des>la dueña de un estudio de baile en las competencias y el drama de las madres.</des>
+ <clasificacion>Clasificacion: +12</clasificacion>
+ <tipo>tipo: programa</tipo>
+ <calificacion>calificacion: 4</calificacion>
+
+
+<Canal> Canal:45</Canal>
+ <programa>El lago azul</programa>
+ <fecha>28/feb/2017</fecha>
+ <hora>9:00 pm</hora>
+ <longitud>Duracion: 2:30 hrs </longitud>
+ <des>dos estudiantes se pierden en un isla .</des>
+ <clasificacion>Clasificacion: +15</clasificacion>
+ <tipo>tipo: pelicula</tipo>
+ <calificacion>calificacion: 5</calificacion>
+</Estacion>
+
+</Padre>
