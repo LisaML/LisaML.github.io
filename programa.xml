@@ -38,4 +38,37 @@
  <calificacion>calificacion: 5</calificacion>
 </Estacion>
 
+<Estacion> E!
+
+ <Canal> Canal:55 </Canal>
+  <programa>The royals</programa>
+  <fecha>20/feb/2017</fecha>
+  <hora>9:00 pm</hora>
+  <longitud>Duracion: 1:30hrs </longitud>
+  <des>un drama sobre la familia real de inglaterra.</des>
+  <clasificacion>+15</clasificacion>
+  <tipo>tipo: serie</tipo>
+  <calificacion>calificacion: 4</calificacion>
+
+<Canal> Canal:80</Canal>
+ <programa>Made in chelsea</programa>
+ <fecha>25/feb/2017</fecha>
+ <hora>9:00 pm</hora>
+ <longitud>Duracion: 1:00 hrs </longitud>
+ <des>las aventuras de los niños ricos del reino unido</des>
+ <clasificacion>Clasificacion: +15</clasificacion>
+ <tipo>tipo: programa</tipo>
+ <calificacion>calificacion: 4</calificacion>
+
+
+<Canal> Canal:55</Canal>
+ <programa>Project runway</programa>
+ <fecha>28/feb/2017</fecha>
+ <hora>9:00 pm</hora>
+ <longitud>Duracion: 1:00 hrs </longitud>
+ <des>Quince talentosos diseñadores compiten por una oportunidad única en la vida: mostrar su colección en la semana de la Moda de Nueva York y 100.000 dólares para hacer realidad su línea. ¡Qué comience el show!</des>
+ <clasificacion>Clasificacion: +15</clasificacion>
+ <tipo>tipo: pelicula</tipo>
+ <calificacion>calificacion: 5</calificacion>
+</Estacion>
 </Padre>
